@@ -1,0 +1,10 @@
+Epoch 1/50
+200/200 [==============================] - 2s 5ms/step - loss: 0.6782 - accuracy: 0.5820 - val_loss: 0.6681 - val_accuracy: 0.6100
+Epoch 2/50
+200/200 [==============================] - 1s 4ms/step - loss: 0.6583 - accuracy: 0.6280 - val_loss: 0.6455 - val_accuracy: 0.6600
+Epoch 3/50
+200/200 [==============================] - 1s 4ms/step - loss: 0.6351 - accuracy: 0.6700 - val_loss: 0.6234 - val_accuracy: 0.7100
+...
+Epoch 50/50
+200/200 [==============================] - 1s 4ms/step - loss: 0.4420 - accuracy: 0.8300 - val_loss: 0.4501 - val_accuracy: 0.8200
+Test Accuracy: 83.12%
